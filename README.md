@@ -13,7 +13,7 @@ Achieved up to 83.91% accuracy with MLP Classifier
 Python
 pandas, numpy, matplotlib
 scikit-learn (sklearn)
-# 📁 Dataset
+#  Dataset
 Adult Income Dataset (UCI Repository)
-# 📌 Goal
+#  Goal
 To build and compare different machine learning models for accurately classifying employee salary categories (<=50K or >50K), aiding data-driven HR and analytics decisions.
